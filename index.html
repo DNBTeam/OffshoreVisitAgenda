@@ -5,8 +5,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!--<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>-->
-	<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
-
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="css/font-awesome.min.css"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -15,16 +15,20 @@
 </head>
 <body>
 	<header>
-		<h1>TATA CONSULTANCY SERVICES Welcomes DNB Management</br> </h1>
-		</div>
+		<img src="img/tcs-logo.png" />
+		<h2>welcomes DNB Management </h2>
+		
 	</header>
-<div class="chooseDateWrapper" >Choose Your Day in TCS <input type="date" id="myDate"><div>
-	<section id="cd-timeline" class="cd-container">
-		<script id="agendaTemplate" type="text/x-handlebars-template">
+	<div class="chooseDateWrapper" >Choose Your Day in TCS <input type="date" id="myDate"><div>
+<div class="agendaWrapper">
+	<script id="agendaTemplate" type="text/x-handlebars-template">
+	{{#if this}}
+		<section id="cd-timeline" class="cd-container">
 	{{#each this}}
 		<div class="cd-timeline-block">
-			<div class="cd-timeline-img cd-picture">
-				<img src="img/cd-icon-picture.svg" alt="Picture">
+			<div class="cd-timeline-img cd-picture cd-{{type}}">
+				<!--<img src="img/cd-icon-picture.svg" alt="Picture">-->
+				<i class="fa fa-{{type}}" aria-hidden="true"></i>
 			</div> <!-- cd-timeline-img -->
 
 			<div class="cd-timeline-content">
@@ -35,8 +39,12 @@
 			</div> <!-- cd-timeline-content -->
 		</div> <!-- cd-timeline-block -->
 		{{/each}}
-	</script>	
-	</section> <!-- cd-timeline -->
+			</section> <!-- cd-timeline -->
+		{{else}}
+		<div class="no-agenda">No Agenda on this Day..</div>
+		{{/if}}
+	</script>
+</div>
 <script src="js/lib/jquery.min.js"></script>
 <script src="js/lib/handlebars-v4.0.11.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
