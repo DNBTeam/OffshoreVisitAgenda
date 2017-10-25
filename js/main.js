@@ -23,7 +23,7 @@ jQuery(document).ready(function($){
 			( $(this).offset().top <= $(window).scrollTop()+$(window).height()*offset && $(this).find('.cd-timeline-img').hasClass('is-hidden') ) && $(this).find('.cd-timeline-img, .cd-timeline-content').removeClass('is-hidden').addClass('bounce-in');
 		});
 	}
-	var now = new Date();
+var now = new Date();
 
 var day = ("0" + now.getDate()).slice(-2);
 var month = ("0" + (now.getMonth() + 1)).slice(-2);
@@ -50,14 +50,9 @@ function getAgendaDetails() {
 
 function setAgendaDetails(date) {
 	var context = JSON.parse(agendaDetails)[date];
-	if(context) {
-		var html    = template(context);
-		$('#cd-timeline').empty();
-		$('#cd-timeline').append(html);
-		} else {
-			alert('No Agenda for the Day')
-		}
-
+	var html    = template(context);
+	$('.agendaWrapper').empty();
+	$('.agendaWrapper').append(html);
 }
 
 getAgendaDetails();
@@ -66,5 +61,7 @@ $('#myDate').change(function() {
     var date = $(this).val();
     setAgendaDetails(date);
 });
+
+
 
 });
