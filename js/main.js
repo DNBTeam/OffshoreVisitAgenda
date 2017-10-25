@@ -34,9 +34,12 @@ var template = Handlebars.compile(source);
 var agendaDetails;
 $('#myDate').val(today);
 
+
+
+
 function getAgendaDetails() {
 	//var url = './json/'+date+'.json';
-	var url = './json/agenda.json';
+	/*var url = './json/agenda.json';
 	$.ajax(url, {
       success: function(res) {
 		agendaDetails = res;
@@ -46,10 +49,19 @@ function getAgendaDetails() {
         alert('error')
       }
    });
+   */
+ $.getJSON("./json/agenda.json", function(res) {
+   		agendaDetails = res;
+		setAgendaDetails(today);
+});  
+   
+   
+   
 }
 
 function setAgendaDetails(date) {
-	var context = JSON.parse(agendaDetails)[date];
+	//var context = JSON.parse(agendaDetails)[date];
+	var context = agendaDetails[date];
 	var html    = template(context);
 	$('.agendaWrapper').empty();
 	$('.agendaWrapper').append(html);
