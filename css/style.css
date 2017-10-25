@@ -283,6 +283,7 @@ header h1 {
   float: left;
   padding: .8em 0;
   opacity: .7;
+ text-align: left;	
 }
 .cd-timeline-content::before {
   content: '';
