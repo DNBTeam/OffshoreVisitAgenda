@@ -3,182 +3,212 @@
 		"title": "Pickup from Mumbai Airport and Drop to Hotel In Pune - Jan & Endre",
 		"desc": "TCS will arrange cab for the travel",
 		"more" : "",
-		"date" : "11.00 AM - 3:00 PM"
+		"date" : "11.00 AM - 3:00 PM",
+		"type" : "car"
 	}],
 	"2017-10-26" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome & Introductions (Agenda walkthrough for next two days)",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Application Maintenance Overview - Journey at Glance",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 10:15 AM"
+		"date" : "9:15 AM - 10:15 AM",
+		"type" : "users"
 	},
 		{
 		"title": "DNB - BS Offshore Objectives for AM",
 		"desc": "",
 		"more" : "",
-		"date" : "10:15 AM - 11.00 AM"
+		"date" : "10:15 AM - 11.00 AM",
+		"type" : "users"
 	},
 	{
 		"title": "AM - KPI Overview / Achievement / Challenges / Competency management",
 		"desc": "",
 		"more" : "",
-		"date" : "11:00 AM - 12.30 AM"
+		"date" : "11:00 AM - 12.30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 AM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "OEI Update - Pilot & Wave 1",
 		"desc": "",
 		"more" : "",
-		"date" : "2:30 PM- 3:30 PM"
+		"date" : "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Open Slot",
 		"desc": "",
 		"more" : "",
-		"date" :  "3:30 PM- 4:30 PM"
+		"date" :  "3:30 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing Comments & Summarize",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 	
 	"2017-10-27" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "Offshore Challenges (AM Team)",
 		"desc": "Improvement Initiatives by AM Team (proactive steps). DNB Expectation & how things can be done differently. Tea Break",
 		"more" : "",
-		"date" : "9:45 AM - 11.15 AM"
+		"date" : "9:45 AM - 11.15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Knowledge transfer on boarding/off boarding of new people offshore",
 		"desc": "Workshop with PMO team and Jan / Endre",
 		"more" : "",
-		"date" : "11:15 AM - 12.30 AM"
+		"date" : "11:15 AM - 12.30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 AM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "AM ODC Floor Walk and Digital Fortress walkthrough",
 		"desc": "",
 		"more" : "",
-		"date" : "2:30 PM- 3:30 PM"
+		"date" : "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Fun @ Work - Games & Team interaction",
 		"desc": "",
 		"more" : "",
-		"date" :  "3:30 PM- 4:30 PM"
+		"date" :  "3:30 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing Comments & Summarize",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 	"2017-10-28" : [{
 		"title": "Sight-Seeing+ Shopping in Pune",
 		"desc": "TCS will arrange cab",
 		"more" : "",
-		"date" : "11.30 AM - 9:00 PM"
+		"date" : "11.30 AM - 9:00 PM",
+		"type" : "car"
 	}],
 	"2017-10-29" : [{
 		"title": "Relax Time",
 		"desc": "",
 		"more" : "",
-		"date" : "11.30 AM - 9:00 PM"
+		"date" : "11.30 AM - 9:00 PM",
+		"type" : "bath"
 	}],
 	"2017-10-30" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "TCS responsibilities in analysing and evaluating NFRs",
 		"desc": "Workshop to be arranged with Development team",
 		"more" : "",
-		"date" : "9:45 AM - 10.45 AM"
+		"date" : "9:45 AM - 10.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "BS ODC Floor walk and Meeting with team",
 		"desc": "",
 		"more" : "",
-		"date" : "10:45 AM - 11.45 AM"
+		"date" : "10:45 AM - 11.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Open Slot",
@@ -190,570 +220,665 @@
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 AM- 1:30 PM"
+		"date" : "12:30 AM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Cash Flow Simulation' in ASAP LC",
 		"desc": "Workshop to be arranged with Development & Maintenance team",
 		"more" : "",
-		"date" : "2:30 PM- 3:30 PM"
+		"date" : "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Functional knowledge on 'Felix Reporter'",
 		"desc": "",
 		"more" : "",
-		"date" :  "3:30 PM- 4:30 PM"
+		"date" :  "3:30 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing Comments & Summarize",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 		"2017-10-31" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker Walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "Update on BS production Incidents / trends and TCS approach on operational stabalization",
 		"desc": "Workshop to be arranged with Development team",
 		"more" : "",
-		"date" : "9:45 AM - 11.00 AM"
+		"date" : "9:45 AM - 11.00 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Open Slot",
 		"desc": "",
 		"more" : "",
-		"date" : "11:00 AM - 12.30 PM"
+		"date" : "11:00 AM - 12.30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 AM- 1:30 PM"
+		"date" : "12:30 AM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "Functional Knowledge on 'Identity Manager'",
 		"desc": "",
 		"more" : "",
-		"date" : "2:30 PM- 3:30 PM"
+		"date" : "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Knowledge on DLA transactions for Global accounts",
 		"desc": "",
 		"more" : "",
-		"date" :  "3:30 PM- 4:30 PM"
+		"date" :  "3:30 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing Comments & Summarize",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 	"2017-11-01" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome & Introductions (Agenda Walkthrough next 7 days)",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "DNB - Offshore Visit Objectives and IT Service Delivery Banking Solutions and Real Estate update",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "BS journey at Glance ( Incremental update over last visit - Offshore Updates)",
 		"desc": "Workshop to be arranged with Development team",
 		"more" : "",
-		"date" : "9:45 AM - 10.30 AM"
+		"date" : "9:45 AM - 10.30 AM",
+		"type" : "users"
 	},
 	{
 		"title": "BS ODC Floor walk, Team Meeting & Interaction",
 		"desc": "",
 		"more" : "",
-		"date" : "10:30 AM - 11.15 PM"
+		"date" : "10:30 AM - 11.15 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "11:15 AM - 11.45 AM"
+		"date" : "11:15 AM - 11.45 AM",
+		"type" : "briefcase"
 	},
 	{
 		"title": "Overview and Update on GDPR / API-Fication / PSD2",
 		"desc": "",
 		"more" : "",
-		"date" : "11:45 AM - 12.30 PM"
+		"date" : "11:45 AM - 12.30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Digital transformation through AI and AR",
 		"desc": "Replay of the session held in in Bjørvika office on 14th September for vendors & startups",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "2:30 PM- 3:00 PM"
+		"date" : "2:30 PM- 3:00 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "Townhall",
 		"desc": "Liv Fiksdahl (DNB CIO) to address entire offshore AD/AM team. Team Event. Award Distribution",
 		"more" : "",
-		"date" :  "3:00 PM- 5:00 PM"
+		"date" :  "3:00 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing comments & Summarize -  BS",
 		"desc": "",
 		"more" : "",
-		"date" : "5:00 PM- 5:30 PM"
+		"date" : "5:00 PM- 5:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:30 PM- 6:00 PM"
+		"date" : "5:30 PM- 6:00 PM",
+		"type" : "car"
 	}],
 	"2017-11-02" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker Walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "BS - Offshore Environment Overview and OEI Update",
 		"desc": "Pilot & Wave 1. Firewall Opening. DMT1 Batch. Collaboration Tools. MOE set up",
 		"more" : "",
-		"date" : "9:45 AM - 10.45 AM"
+		"date" : "9:45 AM - 10.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Approach on ST team setup at offshore - What we have achieved & discussion",
 		"desc": "",
 		"more" : "",
-		"date" : "10:45 AM - 11.30 AM"
+		"date" : "10:45 AM - 11.30 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Brief about major critical / compliance projects in pipeline ",
 		"desc": "",
 		"more" : "",
-		"date" : "11:30 AM - 12.30 AM"
+		"date" : "11:30 AM - 12.30 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Working Slot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "Plan for 'CLOUD' migration in BS",
 		"desc": "",
 		"more" : "",
-		"date" :  "2:30 PM- 3:30 PM"
+		"date" :  "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing comments & Summarize -  BS",
 		"desc": "",
 		"more" : "",
-		"date" : "3:30 PM- 5:00 PM"
+		"date" : "3:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 		"2017-11-03" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "Agile Projects Update (Offshore contribution, Achievemnts and Challenges)",
 		"desc": "",
 		"more" : "",
-		"date" : "9:45 AM - 10.45 AM"
+		"date" : "9:45 AM - 10.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Workshop on CIM CMM FMM Message Models",
 		"desc": "",
 		"more" : "",
-		"date" : "10:45 AM - 12.30 PM"
+		"date" : "10:45 AM - 12.30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Working Slot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "Knowledge on below workflows",
 		"desc": "BMSCNY, FMM, BEVNY",
 		"more" : "",
-		"date" :  "2:30 PM- 3:30 PM"
+		"date" :  "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Change and decoupling of Felix - Way forward for BS",
 		"desc": "",
 		"more" : "",
-		"date" : "3:30 PM- 4:30 PM"
+		"date" : "3:30 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing comments & Summarize -  BS",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 		"2017-11-04" : [{
 		"title": "Sight Seeing Outside Pune",
 		"desc": "TCS will arrange cab",
 		"more" : "",
-		"date" : "11.30 AM - 9:00 PM"
+		"date" : "11.30 AM - 9:00 PM",
+		"type" : "car"
 	}],
 		"2017-11-05" : [{
 		"title": "Relax Time",
 		"desc": "",
 		"more" : "",
-		"date" : "11.30 AM - 9:00 PM"
+		"date" : "11.30 AM - 9:00 PM",
+		"type" : "bath"
 	}],
 		"2017-11-02" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker Walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "BS - Offshore Environment Overview and OEI Update",
 		"desc": "Pilot & Wave 1. Firewall Opening. DMT1 Batch. Collaboration Tools. MOE set up",
 		"more" : "",
-		"date" : "9:45 AM - 10.45 AM"
+		"date" : "9:45 AM - 10.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Approach on ST team setup at offshore - What we have achieved & discussion",
 		"desc": "",
 		"more" : "",
-		"date" : "10:45 AM - 11.30 AM"
+		"date" : "10:45 AM - 11.30 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Brief about major critical / compliance projects in pipeline ",
 		"desc": "",
 		"more" : "",
-		"date" : "11:30 AM - 12.30 AM"
+		"date" : "11:30 AM - 12.30 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Working Slot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "Plan for 'CLOUD' migration in BS",
 		"desc": "",
 		"more" : "",
-		"date" :  "2:30 PM- 3:30 PM"
+		"date" :  "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing comments & Summarize -  BS",
 		"desc": "",
 		"more" : "",
-		"date" : "3:30 PM- 5:00 PM"
+		"date" : "3:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 	"2017-11-06" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "Offshore Delivery process",
 		"desc": "What we have achieved (Offshore Leverage, Mini U process, E2E process, Quality Assurance, Competancy Mgmt …etc)",
 		"more" : "",
-		"date" : "9:45 AM - 10.45 AM"
+		"date" : "9:45 AM - 10.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Process for MiniU and Value-added activities",
 		"desc": "",
 		"more" : "",
-		"date" : "10:45 AM - 11.45 AM"
+		"date" : "10:45 AM - 11.45 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Blueprint Update - Architecture and Application landscape overview",
 		"desc": "",
 		"more" : "",
-		"date" : "11:45 AM- 12:30 PM"
+		"date" : "11:45 AM- 12:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "briefcase"
 	},
 		{
 		"title": "HR Connect / Cross Culture Initiatives",
 		"desc": "",
 		"more" : "",
-		"date" :  "2:30 PM- 3:15 PM"
+		"date" :  "2:30 PM- 3:15 PM",
+		"type" : "users"
 	},
 	{
 		"title": "TCS Experience on API-Fication Implementation",
 		"desc": "",
 		"more" : "",
-		"date" : "3:15 PM- 4:30 PM"
+		"date" : "3:15 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing comments & Summarize",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 		"2017-11-07" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Action Tracker walkthrough from previous day",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 9:45 AM"
+		"date" : "9:15 AM - 9:45 AM",
+		"type" : "users"
 	},
 		{
 		"title": "TCS Experience on GDPR Implementation",
 		"desc": "",
 		"more" : "",
-		"date" : "9:45 AM - 11.15 AM"
+		"date" : "9:45 AM - 11.15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Ways forward on Digital Front in Banking Solutions",
 		"desc": "",
 		"more" : "",
-		"date" : "11:15 AM - 12.30 PM"
+		"date" : "11:15 AM - 12.30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Working Slot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 2:30 PM"
+		"date" : "1:30 PM- 2:30 PM",
+		"type" : "cutlery"
 	},
 		{
 		"title": "May 2017 India visit - Review action Items",
 		"desc": "",
 		"more" : "",
-		"date" :  "2:30 PM- 3:30 PM"
+		"date" :  "2:30 PM- 3:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Fun @ Work - Games & Team interaction",
 		"desc": "",
 		"more" : "",
-		"date" : "3:30 PM- 4:30 PM"
+		"date" : "3:30 PM- 4:30 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Closing comments & Summarize -  BS",
 		"desc": "",
 		"more" : "",
-		"date" : "4:30 PM- 5:00 PM"
+		"date" : "4:30 PM- 5:00 PM",
+		"type" : "users"
 	},
 	{
 		"title": "Travel back to Hotel",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" : "5:00 PM- 6:00 PM"
+		"date" : "5:00 PM- 6:00 PM",
+		"type" : "car"
 	}],
 		"2017-11-08" : [{
 		"title": "Travel from Hotel(Mariott) to TCS Office",
 		"desc": "TCS will arrange cab from Pune Hotel to TCS office",
 		"more" : "",
-		"date" : "8:30 AM - 9:00 AM"
+		"date" : "8:30 AM - 9:00 AM",
+		"type" : "car"
 	},
 	{
 		"title": "Welcome and Presentation on Day's plan",
 		"desc": "",
 		"more" : "",
-		"date" : "9:00 AM - 9:15 AM"
+		"date" : "9:00 AM - 9:15 AM",
+		"type" : "users"
 	},
 	{
 		"title": "Key takeaway and next steps (input to Memo) BS + Closing Comments",
 		"desc": "",
 		"more" : "",
-		"date" : "9:15 AM - 11:15 AM"
+		"date" : "9:15 AM - 11:15 AM",
+		"type" : "users"
 	},
 		{
 		"title": "Workslot",
 		"desc": "",
 		"more" : "",
-		"date" : "11:15 AM - 12.30 PM"
+		"date" : "11:15 AM - 12.30 PM",
+		"type" : "briefcase"
 	},
 	{
 		"title": "Lunch",
 		"desc": "",
 		"more" : "",
-		"date" : "12:30 PM- 1:30 PM"
+		"date" : "12:30 PM- 1:30 PM",
+		"type" : "cutlery"
 	},
 	{
 		"title": "Open Slot",
 		"desc": "",
 		"more" : "",
-		"date" : "1:30 PM- 3:00 PM"
+		"date" : "1:30 PM- 3:00 PM",
+		"type" : "users"
 	},
 		{
 		"title": "Travel back to Mumbai",
 		"desc": "TCS will arrange cab from TCS office to Pune Hotel",
 		"more" : "",
-		"date" :  "3:00 PM- 6:00 PM"
+		"date" :  "3:00 PM- 6:00 PM",
+		"type" : "car"
 	}]
 }
