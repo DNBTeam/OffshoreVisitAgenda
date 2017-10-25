@@ -23,4 +23,48 @@ jQuery(document).ready(function($){
 			( $(this).offset().top <= $(window).scrollTop()+$(window).height()*offset && $(this).find('.cd-timeline-img').hasClass('is-hidden') ) && $(this).find('.cd-timeline-img, .cd-timeline-content').removeClass('is-hidden').addClass('bounce-in');
 		});
 	}
+	var now = new Date();
+
+var day = ("0" + now.getDate()).slice(-2);
+var month = ("0" + (now.getMonth() + 1)).slice(-2);
+
+var today = now.getFullYear()+"-"+(month)+"-"+(day) ;
+var source   = $("#agendaTemplate").html();
+var template = Handlebars.compile(source);
+var agendaDetails;
+$('#myDate').val(today);
+
+function getAgendaDetails() {
+	//var url = './json/'+date+'.json';
+	var url = './json/agenda.json';
+	$.ajax(url, {
+      success: function(res) {
+		agendaDetails = res;
+		setAgendaDetails(today);
+      },
+      error: function() {
+        alert('error')
+      }
+   });
+}
+
+function setAgendaDetails(date) {
+	var context = JSON.parse(agendaDetails)[date];
+	if(context) {
+		var html    = template(context);
+		$('#cd-timeline').empty();
+		$('#cd-timeline').append(html);
+		} else {
+			alert('No Agenda for the Day')
+		}
+
+}
+
+getAgendaDetails();
+
+$('#myDate').change(function() {
+    var date = $(this).val();
+    setAgendaDetails(date);
+});
+
 });
