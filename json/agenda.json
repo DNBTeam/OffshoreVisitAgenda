@@ -5,13 +5,13 @@
 		"more" : "",
 		"date" : "09.40 AM - 10.40 AM",
 		"type" : "car"
-	}],
-	"2017-11-06" : [{
+	},
+	{
 		"title": "Check-in and freshen up at hotel",
 		"desc": "",
 		"more" : "",
 		"date" : "10.40 AM - 12.30 PM",
-		"type" : "cutlery"
+		"type" : "users"
 	},
 	{
 		"title": "Lunch at Hotel",
