@@ -8,7 +8,7 @@
 	},
 	{
 		"title": "Meeting with CS ITLS ",
-		"desc":  "Per Olav have this meeting to attend . So transport required to come to office . Timing is yet to confirm by him.  ",
+		"desc":  " ",
 		"more" : "",
 		"date" : "6:00 PM - 7:00 PM",
 		"type" : "users"
@@ -16,13 +16,13 @@
 	"2018-01-05" : [{
 		"title": "Kochi Airport to Kochi TCS Office  ",
 		"desc":  " TCS needs to arrange a cab from Airport to Kochi TCS office  ",
-		"more" : "Knut Pedar is arriving to Kochi airport from Delhi flight AI933.",
+		"more" : "",
 		"date" : "8:00 AM - 9:00 AM",
 		"type" : "cars"
 	},
 	{
 		"title": "Travel from Hotel(Kochi Marriot ) to TCS Office",
-		"desc":  "TCS will arrange cab from Kochi Marriot Hotel to TCS office for Per Olav ",
+		"desc":  "TCS will arrange cab from Kochi Marriot Hotel to TCS office  ",
 		"more" : "",
 		"date" : "9:00 AM - 9:30 AM",
 		"type" : "cars"
@@ -100,7 +100,7 @@
 	},
 		{
 		"title": "Travel from Kochi to Pune ",
-		"desc": "Flight H19081 Hahn Air system ( Operated by SG184 SpiceJet flight) ",
+		"desc": " ",
 		"more" : "",
 		"date" : "1.35 PM - 03:15 PM",
 		"type" : "car"
