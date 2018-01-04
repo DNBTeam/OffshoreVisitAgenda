@@ -18,14 +18,14 @@
 		"desc":  " TCS needs to arrange a cab from Airport to Kochi TCS office  ",
 		"more" : "",
 		"date" : "8:00 AM - 9:00 AM",
-		"type" : "cars"
+		"type" : "car"
 	},
 	{
 		"title": "Travel from Hotel(Kochi Marriot ) to TCS Office",
 		"desc":  "TCS will arrange cab from Kochi Marriot Hotel to TCS office  ",
 		"more" : "",
 		"date" : "9:00 AM - 9:30 AM",
-		"type" : "cars"
+		"type" : "car"
 	},
 	{
 		"title": "Welcome & Introduction(Agenda Walkthrough)",
