@@ -14,15 +14,8 @@
 		"type" : "users"
 	}],
 	"2018-01-05" : [{
-		"title": "Kochi Airport to Kochi TCS Office  ",
-		"desc":  " TCS needs to arrange a cab from Airport to Kochi TCS office  ",
-		"more" : "",
-		"date" : "8:00 AM - 9:00 AM",
-		"type" : "car"
-	},
-	{
-		"title": "Travel from Hotel(Kochi Marriot ) to TCS Office",
-		"desc":  "TCS will arrange cab from Kochi Marriot Hotel to TCS office  ",
+		"title": "Travel from Hotel/Airport to TCS Office",
+		"desc":  "  ",
 		"more" : "",
 		"date" : "9:00 AM - 9:30 AM",
 		"type" : "car"
@@ -31,21 +24,21 @@
 		"title": "Welcome & Introduction(Agenda Walkthrough)",
 		"desc": "",
 		"more" : "",
-		"date" : "9:30 AM - 10:00 AM",
+		"date" : "9:30 AM - 9:45 AM",
 		"type" : "briefcase"
 	},
 		{
-		"title": "CS OEI Updates ,waves Plan and  Challenges , MOE2 status ",
+		"title": "CS OEI Updates ,waves Plan and  Challenges ",
 		"desc": "",
 		"more" : "",
-		"date" : "10:00 AM - 11.30 AM",
+		"date" : "09:45 AM - 10.30 AM",
 		"type" : "users"
 	},
 	{
-		"title": " Floor Walk and CS team meet ",
+		"title": " DST-Walkthrough of offshored applications/ PDC Walk and meet the team ",
 		"desc": "",
 		"more" : "",
-		"date" : "11:30 AM - 12.30 PM",
+		"date" : "10:30 AM - 12.30 PM",
 		"type" : "users"
 	},
 		{
@@ -64,7 +57,7 @@
 	},
 		{
 		"title": "Offshore Optimisation presentation",
-		"desc": " Knut will present ",
+		"desc": "  ",
 		"more" : "",
 		"date" : "2:30 PM- 4:00 PM",
 		"type" : "users"
